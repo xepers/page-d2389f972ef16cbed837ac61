@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.hxjxsls.cn/sitemap.xml
